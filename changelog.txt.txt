@@ -1,0 +1,2 @@
+26.6.2016 - Version 1.0.0: WiPi Child theme created
+26.6.2016 - Version 1.0.1: added rtl.css and screenshot for WiPi Child theme
