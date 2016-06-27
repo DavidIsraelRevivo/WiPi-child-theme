@@ -1,4 +1,4 @@
-# WiPi-child-theme
+# WiPi-child-theme Version 1.0.2
 Cleen Child theme for WiPi theme
 
 #Installation
